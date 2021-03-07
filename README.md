@@ -11,7 +11,7 @@
 <a href="https://telegram.me/cybernikunj"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>&nbsp;&nbsp;<a href="https://www.instagram.com/cybernikunj/"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
 
   
-<p align="center"><a href="https://github.com/cybernikunj"><img title="CYBERNIKUNJ's" src="https://github-readme-stats.vercel.app/api?username=cybernikunj&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
+<p align="center"><a href="https://github.com/cybernikunj"><img title="" src="https://github-readme-stats.vercel.app/api?username=cybernikunj&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 </p>
 
 
